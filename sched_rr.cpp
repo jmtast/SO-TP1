@@ -22,7 +22,9 @@ void SchedRR::unblock(int pid) {
 }
 
 int SchedRR::tick(int cpu, const enum Motivo m) {
+	return 0;
 }
 
 int SchedRR::next(int cpu) {
+	return 0;
 }

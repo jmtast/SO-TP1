@@ -18,4 +18,5 @@ void SchedFCFS::unblock(int pid) {
 }
 
 int SchedFCFS::tick(int cpu, const enum Motivo m) {
+	return 0;
 }

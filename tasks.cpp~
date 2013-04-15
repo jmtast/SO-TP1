@@ -1,5 +1,4 @@
 #include "tasks.h"
-#include <stdlib.h>
 
 using namespace std;
 
@@ -39,7 +38,7 @@ void TaskConsola(int pid, vector<int> params) { // params: n, bmin y bmax (n = c
 	int bmin = params[1];
 	int bmax = params[2];
 	while (cantidad > 0) {
-		int duracion = (rand() % (bmax - bmin)) + bmin;	// rand da un número random entre 0 y una constante RAND_MAX (ver man 3 rand)
+		int duracion = (rand() % (bmax - bmin)) + min;	// rand da un número random entre 0 y una constante RAND_MAX (ver man 3 rand)
 		uso_IO(pid, duracion);
 		cantidad--;
 	}
