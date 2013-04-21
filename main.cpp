@@ -12,6 +12,8 @@
 
 #include "sched_fcfs.h"
 #include "sched_rr.h"
+#include "sched_rsd.h"
+#include "sched_rr2.h"
 
 using namespace std;
 
@@ -180,6 +182,8 @@ SchedBase* sched_create(const char* sched, vector<int> argn) {
 	 * o ponga -1 para una cantidad de parámetros arbitraria. */
 	_sched_create(SchedRR, -1)
 	_sched_create(SchedFCFS, -1)
+	_sched_create(SchedRSD, -1)
+	_sched_create(SchedRR2, -1)
 	return NULL;
 }
 

@@ -5,6 +5,8 @@
 #include <queue>
 #include "basesched.h"
 
+using namespace std; 
+
 class SchedRR : public SchedBase {
 	public:
 		SchedRR(std::vector<int> argn);
@@ -12,8 +14,12 @@ class SchedRR : public SchedBase {
 		virtual void load(int pid);
 		virtual void unblock(int pid);
 		virtual int tick(int cpu, const enum Motivo m);
-
+	
 	private:
+		queue<int> procesos;
+		vector<int> cores;		
+		vector<int> quantums;
+		vector<int> ticks;
 		int next(int cpu);
 };
 

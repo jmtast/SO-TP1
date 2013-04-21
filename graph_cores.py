@@ -2,6 +2,8 @@
 # coding: utf-8
 
 import sys, os
+import matplotlib
+matplotlib.use('Agg')
 from pylab import *
 from matplotlib.transforms import TransformedBbox 
 
@@ -56,7 +58,7 @@ def parseInput(fin):
                 settings = line[11:].strip()
                 continue
             else:
-                line= line[2:].strip() # Queda --> 'CONTEXT CPU[cpu] time
+                line= line[2:].strip() # Queda --> 'CONTEXT CPU cpu  time
 
         event= EventFactory.get_event(line)
         result.append(event)
@@ -108,7 +110,7 @@ def draw_cores_timeline_gannt(cores_timeline, filename):
     for core in cores_timeline:
         pids_by_time= cores_timeline[core]
         intervals= dict()
-        last_pid= -1
+        last_pid= None
         for time in range(len(pids_by_time)):
             if last_pid != pids_by_time[time]:
                 last_pid = pids_by_time[time]
@@ -156,6 +158,7 @@ def main(argv):
     
     print 'data gathering'
     cores_timeline= dataGathering(data, cores, pids)
+    print cores_timeline
     #todo dump de los datos
     print 'drawing cores timeline'
     draw_cores_timeline_gannt(cores_timeline, fout_cores_timeline)

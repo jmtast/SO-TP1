@@ -5,6 +5,8 @@
 #include <queue>
 #include "basesched.h"
 
+using namespace std;
+
 class SchedFCFS : public SchedBase {
 	public:
 		SchedFCFS(std::vector<int> argn);
@@ -12,8 +14,11 @@ class SchedFCFS : public SchedBase {
 		virtual void load(int pid);
 		virtual void unblock(int pid);
 		virtual int tick(int cpu, const enum Motivo m);
+		queue<int> procesos;
+		vector<int> cores;
 	
 	private:
 };
+
 
 #endif

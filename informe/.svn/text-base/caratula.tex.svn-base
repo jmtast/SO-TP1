@@ -1,0 +1,26 @@
+\begin{titlepage}
+\begin{center}
+
+\textnormal{Universidad de Buenos Aires}\\
+\textnormal{Facultad de Ciencias Exactas y Naturales}\\
+\textnormal{Departamento de Computación}\\
+
+\vspace{5cm}
+
+\large\textbf{Sistemas Operativos - Primer cuatrimestre 2013} \\
+\textbf{Trabajo Práctico Número 1\\
+Scheduling} \\
+
+\vspace{5cm}
+
+\begin{tabular}{|c c c|} \hline
+  L.U. & Integrante & E-Mail \\ \hline
+  125/10 & Giordano, Mauro & mauro.foxh@gmail.com \\ \newline
+  039/10 & Tastzian, Juan Manuel & jm@tast.com.ar \\ \newline
+  500/10 & Vallejo, Nicolás Agustín & nicopr08@gmail.com \\ \hline
+\end{tabular}
+
+\end{center}
+
+
+\end{titlepage}

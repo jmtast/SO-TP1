@@ -24,12 +24,11 @@ class SchedBase {
 	 *  - BLOCK: Ejecutó una syscall bloqueante
 	 *  - EXIT: Terminó (return)
 	 *  - TICL: Consumió el CPU todo el milisegundo.
-	 * Esta función devuelve qué pid utilizará el CPU ahora, o IDLE_TASK. */
+	 * Esta función dev	uelve qué pid utilizará el CPU ahora, o IDLE_TASK. */
 	virtual int tick(int cpu, const enum Motivo m) = 0;
 };
 
 /* Getters */
-//int current_pid();
 int current_pid(int cpu);
 unsigned int current_time();
 
