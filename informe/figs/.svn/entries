@@ -1,15 +1,15 @@
 10
 
 dir
-48
+71
 http://tpsh.dc.uba.ar/svn/nico_valle-sotps/TP1/informe/figs
 http://tpsh.dc.uba.ar/svn/nico_valle-sotps
 
 
 
-2013-04-21T05:53:15.071743Z
-40
-jmtast
+2013-04-22T02:47:57.097006Z
+68
+nico_valle
 
 
 
@@ -26,9 +26,250 @@ jmtast
 
 f604cfce-9c6a-4a5b-bf22-415a15f660c9
 
+ejercicio8_3cores_quantum2.png
+file
+
+
+
+
+2013-04-21T21:47:28.000000Z
+a5feabc983428bbff91109295d270e3b
+2013-04-21T22:00:29.045640Z
+50
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23757
+
+ejercicio8_4cores_quantum2.png
+file
+
+
+
+
+2013-04-21T21:47:56.000000Z
+188aafe257bbae6fee0cf7bfc6d45404
+2013-04-21T22:00:29.045640Z
+50
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23642
+
+ej8
+dir
+
+ejercicio4_tareas_largas.png
+file
+
+
+
+
+2013-04-17T20:20:32.000000Z
+cafe2538d3dcd6a0bd766e80b2888d37
+2013-04-17T21:09:27.963758Z
+17
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11110
+
+ejercicio7_1core_quantum2.png
+file
+
+
+
+
+2013-04-21T03:18:05.000000Z
+e78f6f1f249cfd3bda7ad79ad9b8d4f7
+2013-04-21T05:53:15.071743Z
+40
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12566
+
+ejercicio7_t15_2cores_quantum15.png
+file
+
+
+
+
+2013-04-20T23:00:57.000000Z
+08695e3cdcd62cc156c53d48ca16d98a
+2013-04-21T20:25:19.106933Z
+49
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23671
+
+ejercicio7_1core_quantum3.png
+file
+
+
+
+
+2013-04-21T03:18:17.000000Z
+98effb33718212d6a2270c620fe16cac
+2013-04-21T05:53:15.071743Z
+40
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12480
+
+ejercicio7_1core_quantum4.png
+file
+
+
+
+
+2013-04-21T03:18:24.000000Z
+50bc7e15690ec9463bc4441eb32ef11e
+2013-04-21T05:53:15.071743Z
+40
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12274
+
 ejercicio7_t15_4cores_quantum15.png
 file
-49
+
 
 
 
@@ -128,16 +369,16 @@ has-props
 
 12142
 
-ejercicio7_t15_2cores_quantum2.png
+ejercicio8_2cores_quantum15.png
 file
-49
 
 
 
-2013-04-20T22:57:18.000000Z
-656459b82cc172b9c308cdda87e1eb59
-2013-04-21T20:25:19.106933Z
-49
+
+2013-04-21T21:42:27.000000Z
+f7853c2fa46eb0050a3e82619ec5bdf3
+2013-04-21T22:00:29.045640Z
+50
 jmtast
 has-props
 
@@ -160,18 +401,18 @@ has-props
 
 
 
-26838
+22470
 
-ejercicio7_t15_3cores_quantum2.png
+ejercicio8_4cores_quantum15.png
 file
-49
 
 
 
-2013-04-20T22:58:30.000000Z
-8f5d3c5ac464b15455095032b710fe9b
-2013-04-21T20:25:19.106933Z
-49
+
+2013-04-21T21:48:10.000000Z
+79e9a49202267291dc0dfc83c5049289
+2013-04-21T22:00:29.045640Z
+50
 jmtast
 has-props
 
@@ -194,75 +435,7 @@ has-props
 
 
 
-28919
-
-ejercicio7_1core_quantum10.png
-file
-
-
-
-
-2013-04-21T03:18:49.000000Z
-af2cb554e146de13e1954e1d3671d6a9
-2013-04-21T05:53:15.071743Z
-40
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12070
-
-ejercicio7_t15_4cores_quantum2.png
-file
-49
-
-
-
-2013-04-20T22:59:24.000000Z
-21700917ae9256bf3c2358e0b0ff6293
-2013-04-21T20:25:19.106933Z
-49
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29600
+22185
 
 ejercicio4_2cores_igual_quantum.png
 file
@@ -297,40 +470,6 @@ has-props
 
 
 12468
-
-ejercicio4_3cores_igual_quantum.png
-file
-
-
-
-
-2013-04-17T00:11:12.000000Z
-8f1c7dd382d31b43d44119e37e5b96ec
-2013-04-17T00:59:47.212342Z
-11
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12767
 
 ejercicio4_2cores_dif_quantum.png
 file
@@ -400,74 +539,6 @@ has-props
 
 196127
 
-ejercicio4_3cores_dif_quantum.png
-file
-
-
-
-
-2013-04-17T00:09:42.000000Z
-6654cf6a08d03b1d8e5b5d4c3789db4c
-2013-04-17T00:59:47.212342Z
-11
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12823
-
-ejercicio2_2cores.png
-file
-
-
-
-
-2013-04-16T23:36:00.000000Z
-3fa0983bd8a7b121e065fdd478e446d4
-2013-04-16T23:55:26.492658Z
-8
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9299
-
 ejercicio2_3cores.png
 file
 
@@ -504,7 +575,7 @@ has-props
 
 ejercicio7_t15_1core_quantum2.png
 file
-49
+
 
 
 
@@ -604,17 +675,17 @@ has-props
 
 8683
 
-ejercicio7_1core_quantum2.png
+ej91.png
 file
 
 
 
 
-2013-04-21T03:18:05.000000Z
-e78f6f1f249cfd3bda7ad79ad9b8d4f7
-2013-04-21T05:53:15.071743Z
-40
-jmtast
+2013-04-22T02:42:49.000000Z
+1e93365ece9ad7411c5ee83b17e778e6
+2013-04-22T02:41:22.259667Z
+66
+mgiordano
 has-props
 
 
@@ -636,75 +707,7 @@ has-props
 
 
 
-12566
-
-ejercicio4_tareas_largas.png
-file
-
-
-
-
-2013-04-17T20:20:32.000000Z
-cafe2538d3dcd6a0bd766e80b2888d37
-2013-04-17T21:09:27.963758Z
-17
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11110
-
-ejercicio7_1core_quantum3.png
-file
-
-
-
-
-2013-04-21T03:18:17.000000Z
-98effb33718212d6a2270c620fe16cac
-2013-04-21T05:53:15.071743Z
-40
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12480
+19138
 
 ejercicio4_1core.png
 file
@@ -740,74 +743,6 @@ has-props
 
 11196
 
-ejercicio7_t15_2cores_quantum15.png
-file
-49
-
-
-
-2013-04-20T23:00:57.000000Z
-08695e3cdcd62cc156c53d48ca16d98a
-2013-04-21T20:25:19.106933Z
-49
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23671
-
-ejercicio7_t15_3cores_quantum15.png
-file
-49
-
-
-
-2013-04-20T23:00:45.000000Z
-37161893f57f042b8ecc8f110ec21f88
-2013-04-21T20:25:19.106933Z
-49
-jmtast
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25243
-
 ejercicio7_cores_quantum2.png
 file
 
@@ -842,14 +777,150 @@ has-props
 
 200648
 
-ejercicio7_1core_quantum4.png
+ejercicio7_t15_3cores_quantum15.png
 file
 
 
 
 
-2013-04-21T03:18:24.000000Z
-50bc7e15690ec9463bc4441eb32ef11e
+2013-04-20T23:00:45.000000Z
+37161893f57f042b8ecc8f110ec21f88
+2013-04-21T20:25:19.106933Z
+49
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25243
+
+ejercicio8_3cores_quantum15.png
+file
+
+
+
+
+2013-04-21T21:47:43.000000Z
+a6b1855544ae76b21bd9114932c0c0c2
+2013-04-21T22:00:29.045640Z
+50
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21592
+
+ejercicio7_t15_2cores_quantum2.png
+file
+
+
+
+
+2013-04-20T22:57:18.000000Z
+656459b82cc172b9c308cdda87e1eb59
+2013-04-21T20:25:19.106933Z
+49
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26838
+
+ejercicio7_t15_3cores_quantum2.png
+file
+
+
+
+
+2013-04-20T22:58:30.000000Z
+8f5d3c5ac464b15455095032b710fe9b
+2013-04-21T20:25:19.106933Z
+49
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28919
+
+ejercicio7_1core_quantum10.png
+file
+
+
+
+
+2013-04-21T03:18:49.000000Z
+af2cb554e146de13e1954e1d3671d6a9
 2013-04-21T05:53:15.071743Z
 40
 jmtast
@@ -874,5 +945,175 @@ has-props
 
 
 
-12274
+12070
+
+ejercicio7_t15_4cores_quantum2.png
+file
+
+
+
+
+2013-04-20T22:59:24.000000Z
+21700917ae9256bf3c2358e0b0ff6293
+2013-04-21T20:25:19.106933Z
+49
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29600
+
+ejercicio4_3cores_igual_quantum.png
+file
+
+
+
+
+2013-04-17T00:11:12.000000Z
+8f1c7dd382d31b43d44119e37e5b96ec
+2013-04-17T00:59:47.212342Z
+11
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12767
+
+ejercicio4_3cores_dif_quantum.png
+file
+
+
+
+
+2013-04-17T00:09:42.000000Z
+6654cf6a08d03b1d8e5b5d4c3789db4c
+2013-04-17T00:59:47.212342Z
+11
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12823
+
+ejercicio2_2cores.png
+file
+
+
+
+
+2013-04-16T23:36:00.000000Z
+3fa0983bd8a7b121e065fdd478e446d4
+2013-04-16T23:55:26.492658Z
+8
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9299
+
+ejercicio8_2cores_quantum2.png
+file
+
+
+
+
+2013-04-21T21:41:13.000000Z
+3cb85c0f8ac3bccc24869f94935e1df1
+2013-04-21T22:00:29.045640Z
+50
+jmtast
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22644
 

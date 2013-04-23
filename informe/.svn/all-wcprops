@@ -1,43 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe
+/svn/nico_valle-sotps/!svn/ver/71/TP1/informe
+END
+mainTP1.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nico_valle-sotps/!svn/ver/51/TP1/informe/mainTP1.tex
 END
 caratula.aux
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/6/TP1/informe/caratula.aux
-END
-mainTP1.log
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.log
+V 58
+/svn/nico_valle-sotps/!svn/ver/72/TP1/informe/caratula.aux
 END
 caratula.tex
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/nico_valle-sotps/!svn/ver/6/TP1/informe/caratula.tex
-END
-mainTP1.toc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.toc
-END
-mainTP1.aux
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.aux
-END
-mainTP1.tex
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/17/TP1/informe/mainTP1.tex
 END
 caratula.log
 K 25
@@ -57,17 +39,11 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/nico_valle-sotps/!svn/ver/19/TP1/informe/ejercicio4.tex
 END
-mainTP1.out
+ejercicio5.tex
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.out
-END
-mainTP1.pdf
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.pdf
+V 60
+/svn/nico_valle-sotps/!svn/ver/64/TP1/informe/ejercicio5.tex
 END
 ejercicio7.tex
 K 25
@@ -79,17 +55,17 @@ ejercicio8.tex
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svn/nico_valle-sotps/!svn/ver/17/TP1/informe/ejercicio8.tex
+/svn/nico_valle-sotps/!svn/ver/72/TP1/informe/ejercicio8.tex
 END
 ejercicio9.tex
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svn/nico_valle-sotps/!svn/ver/17/TP1/informe/ejercicio9.tex
+/svn/nico_valle-sotps/!svn/ver/71/TP1/informe/ejercicio9.tex
 END
 mainTP1.synctex.gz
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/mainTP1.synctex.gz
+/svn/nico_valle-sotps/!svn/ver/72/TP1/informe/mainTP1.synctex.gz
 END

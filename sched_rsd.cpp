@@ -5,10 +5,6 @@
 #include "basesched.h"
 #include <iostream>
 
-/*
-Revisar el tema de la quota de nivel y la quota de los procesos. La idea es que la quota por nivel no se pase mas (arranca en 0), y se va aumentando a medida que llega un proceso (con lo que le corresponde).
-*/
-
 	/**
 		Preparado para multicore pero en realidad se utiliza con un solo core
 	**/
@@ -17,8 +13,7 @@ using namespace std;
 
 SchedRSD::SchedRSD(vector<int> argn) {
 
-	//Asumimos que arg[0] = cant cores, despues n quantums, despues l niveles, despues l quotas globales para cada nivel
-	//despues l quotas de proceso para cada nivel
+	//Asumimos que arg[0] = cant cores, despues n quantums, despues l niveles, despues l quotas de proceso para cada nivel
 
 	//Inicializamos cada core con tarea IDLE
 	vector<int>::iterator it = cores.begin();
@@ -52,13 +47,11 @@ SchedRSD::SchedRSD(vector<int> argn) {
 
 	//Inicializamos las cuotas globales y de procesos para cada nivel
 	cantCores = cantCores + 2; //ya no representa cores sino un indice
-	//it = levelQuota.begin();
 	it2 = procQuota.begin();
 	vector<int>::iterator it5 = levelQuotaLeft.begin();
 	for(int i = cantCores + cantLevels - 1; i > cantCores-1; i--){
-	//	it = levelQuota.insert(it, argn[i]);
 		it5 = levelQuotaLeft.insert(it5, 0);	
-		it2 = procQuota.insert(it2, argn[i+cantLevels]);	
+		it2 = procQuota.insert(it2, argn[i]);	
 	}
 
 	activeStaircase = &staircase_a; 

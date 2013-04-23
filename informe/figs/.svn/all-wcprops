@@ -1,61 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs
+/svn/nico_valle-sotps/!svn/ver/68/TP1/informe/figs
 END
-ejercicio7_1core_quantum3.png
+ejercicio8_3cores_quantum15.png
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum3.png
-END
-ejercicio4_1core.png
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_1core.png
-END
-ejercicio7_t15_2cores_quantum15.png
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_2cores_quantum15.png
-END
-ejercicio7_1core_quantum4.png
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum4.png
-END
-ejercicio7_cores_quantum2.png
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_cores_quantum2.png
-END
-ejercicio7_t15_3cores_quantum15.png
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_3cores_quantum15.png
-END
-ejercicio7_t15_4cores_quantum15.png
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_4cores_quantum15.png
-END
-ejercicio7_1core_quantum7.png
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum7.png
-END
-ejercicio7_1core_quantum8.png
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum8.png
+V 82
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_3cores_quantum15.png
 END
 ejercicio7_t15_2cores_quantum2.png
 K 25
@@ -81,29 +33,11 @@ svn:wc:ra_dav:version-url
 V 85
 /svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_4cores_quantum2.png
 END
-ejercicio4_2cores_igual_quantum.png
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_2cores_igual_quantum.png
-END
 ejercicio4_3cores_igual_quantum.png
 K 25
 svn:wc:ra_dav:version-url
 V 86
 /svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_3cores_igual_quantum.png
-END
-ejercicio4_2cores_dif_quantum.png
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_2cores_dif_quantum.png
-END
-ejercicio7_cores_quantum10.png
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_cores_quantum10.png
 END
 ejercicio4_3cores_dif_quantum.png
 K 25
@@ -116,6 +50,102 @@ K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/nico_valle-sotps/!svn/ver/8/TP1/informe/figs/ejercicio2_2cores.png
+END
+ejercicio8_2cores_quantum2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_2cores_quantum2.png
+END
+ejercicio8_3cores_quantum2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_3cores_quantum2.png
+END
+ejercicio8_4cores_quantum2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_4cores_quantum2.png
+END
+ejercicio7_1core_quantum2.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum2.png
+END
+ejercicio4_tareas_largas.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nico_valle-sotps/!svn/ver/17/TP1/informe/figs/ejercicio4_tareas_largas.png
+END
+ejercicio7_t15_2cores_quantum15.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_2cores_quantum15.png
+END
+ejercicio7_1core_quantum3.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum3.png
+END
+ejercicio7_1core_quantum4.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum4.png
+END
+ejercicio7_t15_4cores_quantum15.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_4cores_quantum15.png
+END
+ejercicio7_1core_quantum7.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum7.png
+END
+ejercicio7_1core_quantum8.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum8.png
+END
+ejercicio8_2cores_quantum15.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_2cores_quantum15.png
+END
+ejercicio8_4cores_quantum15.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nico_valle-sotps/!svn/ver/50/TP1/informe/figs/ejercicio8_4cores_quantum15.png
+END
+ejercicio4_2cores_igual_quantum.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_2cores_igual_quantum.png
+END
+ejercicio7_cores_quantum10.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_cores_quantum10.png
+END
+ejercicio4_2cores_dif_quantum.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_2cores_dif_quantum.png
 END
 ejercicio2_3cores.png
 K 25
@@ -141,15 +171,27 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/nico_valle-sotps/!svn/ver/8/TP1/informe/figs/ejercicio2_1core.png
 END
-ejercicio7_1core_quantum2.png
+ej91.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nico_valle-sotps/!svn/ver/66/TP1/informe/figs/ej91.png
+END
+ejercicio4_1core.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nico_valle-sotps/!svn/ver/11/TP1/informe/figs/ejercicio4_1core.png
+END
+ejercicio7_t15_3cores_quantum15.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nico_valle-sotps/!svn/ver/49/TP1/informe/figs/ejercicio7_t15_3cores_quantum15.png
+END
+ejercicio7_cores_quantum2.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_1core_quantum2.png
-END
-ejercicio4_tareas_largas.png
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/nico_valle-sotps/!svn/ver/17/TP1/informe/figs/ejercicio4_tareas_largas.png
+/svn/nico_valle-sotps/!svn/ver/40/TP1/informe/figs/ejercicio7_cores_quantum2.png
 END

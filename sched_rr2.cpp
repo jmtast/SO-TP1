@@ -8,9 +8,7 @@ using namespace std;
 
 SchedRR2::SchedRR2(vector<int> argn) {
 	// Round robin recibe la cantidad de cores y sus cpu_quantum por parámetro
-	//block=0;
-	//exit=0;
-	//ticked=0;
+	
 	vector<int>::iterator it = cores.begin();
 	vector< queue<int> >::iterator it3 = colas.begin();
 	queue<int> cola;
@@ -145,48 +143,13 @@ int SchedRR2::next(int cpu) {
 	else{
 
 
-		/*if (colas[cpu].size()==1){
-
-			if (block==1) {		//si entro aca es 
-				block=0;
-				pid=colas[cpu].front();
-				
-			}
-				
-			if(ticked==1){				//si entro aca es porque solo estaba corriendo esa tarea en el core, asi que voy a ver si puedo agarrar otra
-				ticked=0;
-				if(procesos.empty()){
-					pid=colas[cpu].front(); // si no puedo, sigo con esta
-				}
-				else{
-				
-					pid=colas[cpu].front();// voy a sacar una tarea de la lista de procesos global, asignarle este core y mandar la actual al final de la cola
-					colas[cpu].pop();
-					colas[cpu].push(procesos.front());
-					procesos.pop();
-					colas[cpu].push(pid);
-					pid=colas[cpu].front();
-				}
-		
-
-			}
-		
-			if(exit=1){  //si entro aca es porque 
-				exit=0;
-				pid=colas[cpu].front();
-			}
-											
-		}
-		else{*/
 			
 			if(procesos.empty()){
-			// pid=IDLE_TASK;
+			
 			pid=colas[cpu].front();
 		}	
 		else{
-			//pid=procesos.front();
-			//procesos.pop();	
-			//colas[cpu].push(pid);
+			
 			pid=procesos.front();		//pongo un proceso en la cola del core
 			procesos.pop();	
 			colas[cpu].push(pid);
@@ -198,8 +161,7 @@ int SchedRR2::next(int cpu) {
 			}
 		}
 		
-			//pid=colas[cpu].front();
-			//colas[cpu].pop();
+			
 			
 	}
 	cores[cpu] = pid;
